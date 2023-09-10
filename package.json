@@ -1,0 +1,13 @@
+{
+  "name": "charmguides",
+  "version": "1.0.0",
+  "description": "docs for charmguides.com",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "github.com:ConcealedCharm/CharmGuides.git"
+  },
+  "author": "ConcealedCharm",
+  "license": "ISC"
+}
